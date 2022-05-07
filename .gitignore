@@ -1,6 +1,6 @@
 
 # compiled binaries
-bin/*
+/bin/*
 
 # legacy script; only for reference
 golad_testing copy.c
